@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+data/
+data2/
+images/
+logs/
+models/
+*.jpg
+*.png
+*.pt
+*.pth
+.scannerwork/
+.vscode/
+.idea/
+*.log
